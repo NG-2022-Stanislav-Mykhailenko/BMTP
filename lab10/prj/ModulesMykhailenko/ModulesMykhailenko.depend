@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1677874156 source:z:\bmtp10\prj\modulesmykhailenko\modulesmykhailenko.cpp
+	<ctime>
+	<string>
+	<fstream>
+	<codecvt>
+	<bitset>
+	<limits>
+	"ModulesMykhailenko.h"
+
