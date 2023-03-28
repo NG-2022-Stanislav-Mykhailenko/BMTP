@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1677244172 source:z:\bmtp9\prj\mykhailenko_task\main.cpp
-	<iostream>
-	<cctype>
-	<clocale>
-	"ModulesMykhailenko.h"
-

@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1677244734 source:z:\bmtp9\prj\testdriver\main.cpp
-	"ModulesMykhailenko.h"
-	<iostream>
-	<clocale>
-
