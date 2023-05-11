@@ -1,0 +1,3 @@
+Edge	Volume	Seeds
+5	125	100
+10	1000	200
